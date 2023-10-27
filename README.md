@@ -19,7 +19,7 @@ To develop a animal feeding game-Phase-2 using unity.
 ### Step 7: For all the animal prefabs and food in th inspector (below the  layer ) drop down the override option and choose apply all.
 
 ## Program:
-# SPAWN MANAGER:
+#SPAWN MANAGER:
 ```
 using System.Collections;
 using System.Collections.Generic;
@@ -54,7 +54,7 @@ public class SpawnManager : MonoBehaviour
     }
 }
 ```
-# DETECT COLLISION:
+#DETECT COLLISION:
 ```
 using System.Collections;
 using System.Collections.Generic;
